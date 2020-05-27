@@ -9,3 +9,5 @@ After loading with *pandas*, the analysis determines which are the relevant hype
 
 `JRC_all_labels_w_preprocessing.ipynb`: A sample notebook from my research work on large multi-label text classication (LMTC) with legal document (JRC-Acquis). See inside the notebook for more information. In this notebook, we use fastAI techniques on the problem. 
 
+`Spam_Detection_with_BERT_RoBERTa_and_fastai.ipynb`: A notebook for one of my university courses showing how to use `transformer` models together with fastAI on the example of spam detection.
+
